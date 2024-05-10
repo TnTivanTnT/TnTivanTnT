@@ -35,7 +35,7 @@
 [![TnTivanTnT's Github stats](https://github-readme-stats.vercel.app/api?username=TnTivanTnT&show_icons=true&theme=merko&hide=["contribs","issues","stars"]&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TnTivanTnT)
 <!-- ¿COMO SE CENTRA ESTO? -->
 # Github repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TnTivanTnT&repo=ServerMine&show_owner=true)](https://github.com/ServerMine)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TnTivanTnT&repo=ServerMine&show_owner=true)](https://github.com/TnTivanTnT)
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CREADOR DEL RERPO &repo=RoboRescueUMA&show_owner=true)](https://github.com/RoboRescueUMA)
 ¿si se pone al creador del respsitorio sirve?
