@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/iv%C3%A1n-moreno-ladaga-42430a297/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@IvanMorenoLadaga-blue?style=flat&logo=linkedin"></a>
 <a href="https://t.me/TnTivanTnT" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-TnTivanTnT-blue?style=flat&logo=Telegram"></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSqmMDgVdmJWjLRnKvrttDPqNRkFPJDWmrdhZphGvxJfRPQPBNbxLPBqhrwsTtmxnCXs"><img alt="Email" src="https://img.shields.io/badge/Email-ivanmorladag@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:ivanmorladag@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivanmorladag@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.instagram.com/ivan_ml_17/?utm_source=qr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ivan_ml_17-blue?style=flat&logo=Instagram"></a>
 </p>
 
