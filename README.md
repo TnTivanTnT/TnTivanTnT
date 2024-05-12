@@ -16,18 +16,18 @@
 
 # Code
 <p align="center">
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a> &nbsp;
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a> &nbsp;
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"></a> &nbsp;
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
+  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a> &nbsp;
+  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a> &nbsp;
+  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"></a> &nbsp;
+  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
 </p><br>
 
 
 <p align="center">
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu"></a> &nbsp;
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a> &nbsp;
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a> &nbsp;
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu"></a> &nbsp;
+  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a> &nbsp;
+  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a> &nbsp;
+  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p>
 
 # Stats
@@ -48,4 +48,4 @@ Desing of:<br>
 &emsp;links and repos: [@anandmainali](https://github.com/anandmainali)<br>
 &emsp;code: [priyanshumay](https://github.com/priyanshumay)<br>
 
-<a href="https://www.linkedin.com/in/iv%C3%A1n-moreno-ladaga-42430a297/" target="_blank">SantasGachas</a>
+<html><a href="https://www.linkedin.com/in/iv%C3%A1n-moreno-ladaga-42430a297/" target="_blank">SantasGachas</a></html>
