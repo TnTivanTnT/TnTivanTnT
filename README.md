@@ -47,7 +47,3 @@ Desing of:<br>
 &emsp;counter and stats: [naveenverma1](https://github.com/naveenverma1) <br>
 &emsp;links and repos: [@anandmainali](https://github.com/anandmainali)<br>
 &emsp;code: [priyanshumay](https://github.com/priyanshumay)<br>
-
-<html>
-  <a href="https://www.linkedin.com/in/iv%C3%A1n-moreno-ladaga-42430a297/" target="_blank">SantasGachas</a>
-</html>
