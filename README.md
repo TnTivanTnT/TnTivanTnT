@@ -16,7 +16,7 @@
 
 # Bio
 
-I am an university student who code on multiple languages in a basic level such as java, html, c++, python between others. I mainly use Arduino and use several programs like matlab, visual studio code. I started to code six years ago and i made so many robotics projects like a robotic Spider, auto-balance, some projects with AI ( assistants and chatbot), web chat bots that helps you searching information on the web or booking a date on the calendar.
+I am an university student who code on multiple languages in a basic level such as java, html, c++, python between others. I mainly use Arduino and use several programs like matlab, visual studio code. I started coding in 2012 and i made so many robotics projects like a robotic Spider, auto-balance, some projects with AI ( assistants and chatbot), web chat bots that helps you searching information on the web or booking a date on the calendar.
 # Code
 <p align="center">
   <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a> &nbsp;
