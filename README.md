@@ -13,7 +13,8 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJRzKDQHKJQsWFztXfXlrlrQzBFMStnVgKFgXKjSmRFTbtTnrKhwdnrSMpzhNjnHXzJq" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-ivanmorladag@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.instagram.com/ivan_ml_17/?utm_source=qr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ivan_ml_17-blue?style=flat&logo=Instagram"></a>
 </p>
-
+# Bio
+I am an university student who code on multiple languages in a basic level such as java, html, c++, python between others. I mainly use Arduino and use several programs like matlab, visual studio code. I started to code six years ago and i made so many robotics projects like a robotic Spider, auto-balance, some projects with AI ( assistants and chatbot), web chat bots that helps you searching information on the web or booking a date on the calendar.
 # Code
 <p align="center">
   <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a> &nbsp;
