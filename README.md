@@ -19,10 +19,15 @@
 I am an university student who code on multiple languages in a medium level such as java, html, c++, python between others. I mainly use Arduino and use several programs like matlab, visual studio code. I have been coding since 2017 and i made so many robotics projects like a robotic Spider, auto-balance, some projects with AI ( assistants and chatbot), web chat bots that helps you searching information on the web or booking a date on the calendar.
 # Code
 <p align="center">
-  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a> &nbsp;
-  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a> &nbsp;
-  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"></a> &nbsp;
-  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
+<img src="https://img.shields.io/badge/Python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"> &nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-00549D.svg?style=for-the-badge&logo=cplusplus&logoColor=%2300549D&labelColor=ffffff"> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=ffffff"> &nbsp;
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"> &nbsp;
+<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"> &nbsp;
+<img src="https://github.com/ivan-17/Logo/blob/main/MatlabBanner.png">
+
+
+
 </p><br>
 
 
