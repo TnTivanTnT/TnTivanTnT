@@ -16,19 +16,20 @@
 
 # Bio
 
-I am an university student who code on multiple languages in a medium level such as java, html, c++, python between others. I mainly use Arduino and use several programs like matlab, visual studio code. I have been coding since 2017 and i made so many robotics projects like a robotic Spider, auto-balance, some projects with AI ( assistants and chatbot), web chat bots that helps you searching information on the web or booking a date on the calendar.
+I am an university student who code on multiple languages in a medium level, such as c++ and python, and basic level, html, css and javascript. I mainly use Arduino and use several programs like matlab, visual studio code. I have been coding since 2017 and i made so many robotics projects like a robotic Spider, auto-balance, some projects with AI, web chat bots that helps you searching information on the web or booking a date on the calendar.
 
 # Code
 
 <p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="33"> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvkZO1g6vDyu7YKjnKOS0RqGe_4TGPZNga9y8MMTGHnA&s" width="33" height="33"> &nbsp;
 <img src="https://www.codeguru.com/wp-content/uploads/2003/02/C-tutorials-300x300.jpg" width="33" height="33"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="33" height="33"> &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuBR1T4lOw6W90_Byr0wmh9S4MKULz_j2OaTvoajHXg&s" width="33" height="33"> &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjj91OHW6vIFKg-46YaMNuTOqXGuw1XT2Cs3cuC60Sg&s" width="33" height="33"> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2D-LUEKXpJ9u-DG_lIA3n_09XEGHExJDqw&s" width="33" height="33"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="33"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="33"> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuBR1T4lOw6W90_Byr0wmh9S4MKULz_j2OaTvoajHXg&s" width="33" height="33"> &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="33" height="33"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="33" height="33"> &nbsp;
+
 
 </p><br>
 
