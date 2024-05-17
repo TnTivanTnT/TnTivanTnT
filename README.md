@@ -17,29 +17,34 @@
 # Bio
 
 I am an university student who code on multiple languages in a medium level such as java, html, c++, python between others. I mainly use Arduino and use several programs like matlab, visual studio code. I have been coding since 2017 and i made so many robotics projects like a robotic Spider, auto-balance, some projects with AI ( assistants and chatbot), web chat bots that helps you searching information on the web or booking a date on the calendar.
+
 # Code
+
 <p align="center">
-<img src="https://img.shields.io/badge/Python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"> &nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-00549D.svg?style=for-the-badge&logo=cplusplus&logoColor=%2300549D&labelColor=ffffff"> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=ffffff"> &nbsp;
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"> &nbsp;
-<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"> &nbsp;
-<img src="https://github.com/ivan-17/Logo/blob/main/MatlabBanner.png">
-
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvkZO1g6vDyu7YKjnKOS0RqGe_4TGPZNga9y8MMTGHnA&s" width="33" height="33"> &nbsp;
+<img src="https://www.codeguru.com/wp-content/uploads/2003/02/C-tutorials-300x300.jpg" width="33" height="33"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="33" height="33"> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuBR1T4lOw6W90_Byr0wmh9S4MKULz_j2OaTvoajHXg&s" width="33" height="33"> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjj91OHW6vIFKg-46YaMNuTOqXGuw1XT2Cs3cuC60Sg&s" width="33" height="33"> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2D-LUEKXpJ9u-DG_lIA3n_09XEGHExJDqw&s" width="33" height="33"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="33"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="33"> &nbsp;
 
 </p><br>
 
-
-<p align="center">
-  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu"></a> &nbsp;
-  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a> &nbsp;
-  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a> &nbsp;
-  <a href="https://github.com/priyanshumay" target="_blank"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+<p align = "center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZIisqVbLUPZIJK_ZyFGA5rDEt0u2TvHHmhg&s" width="33" height="33"> &nbsp;
+<img src="https://assets-global.website-files.com/656f60dc2d85b496beec7c35/656f7af7b503790c02ef0ecc_voiceflow-logo.svg" width="60" height="33"> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8MX5pYTelSZbfJikPOy5UYy6BQGoBnhqVw&s" width="33" height="33"> &nbsp;
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="33" height="33"> &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ma2ZC5iTvPhPIL667LuV1q5xeC-e79Jeow&s" width="33" height="33"> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSYA3HMeTzhrXRmPVLH_q7f_5OLlBo8_DfJA&s" width="33" height="33"> &nbsp;
+</p>
 </p>
 
-# Stats
 
+# Stats
 [![TnTivanTnT's Github stats](https://github-readme-stats.vercel.app/api?username=TnTivanTnT&show_icons=true&theme=merko&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TnTivanTnT)
 <!-- ¿COMO SE CENTRA ESTO? -->
 # Github repos
@@ -54,4 +59,3 @@ INVESTIGAR PARA PONER REPOSOTORIOS DE OTROS Y PONER EL DE LA UMA, HECHO ESTE COM
 Desing of:<br>
 &emsp;counter and stats: [naveenverma1](https://github.com/naveenverma1) <br>
 &emsp;links and repos: [@anandmainali](https://github.com/anandmainali)<br>
-&emsp;code: [priyanshumay](https://github.com/priyanshumay)<br>
