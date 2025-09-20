@@ -57,5 +57,5 @@ INVESTIGAR PARA PONER REPOSOTORIOS DE OTROS Y PONER EL DE LA UMA, HECHO ESTE COM
 
 # Congrats
 Desing of:<br>
-&emsp;stats: [naveenverma1](https://github.com/naveenverma1) <br>
-&emsp;links and repos: [@anandmainali](https://github.com/anandmainali)<br>
+&emsp;Stats: [naveenverma1](https://github.com/naveenverma1) <br>
+&emsp;Links and repos: [@anandmainali](https://github.com/anandmainali)<br>
