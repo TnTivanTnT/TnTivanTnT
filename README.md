@@ -36,6 +36,5 @@ I am an university student who code on multiple languages in a medium level, suc
 # Github repos
 <p align="center">
   <a href="https://github.com/TnTivanTnT/ShieldTrade-CE"><img src="https://github-readme-stats-one.vercel.app/api/pin/?username=TnTivanTnT&repo=ShieldTrade-CE&theme=merko" alt="ShieldTrade-CE" /></a>
-  <br><br>
   <a href="https://github.com/TnTivanTnT/SpiderRos"><img src="https://github-readme-stats-one.vercel.app/api/pin/?username=TnTivanTnT&repo=SpiderRos&theme=merko" alt="SpiderRos" /></a>
 </p>
