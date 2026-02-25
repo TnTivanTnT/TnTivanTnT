@@ -27,7 +27,8 @@ I am an university student who code on multiple languages in a medium level, suc
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8MX5pYTelSZbfJikPOy5UYy6BQGoBnhqVw&s" width="33" height="33"> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ma2ZC5iTvPhPIL667LuV1q5xeC-e79Jeow&s" width="33" height="33"> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSYA3HMeTzhrXRmPVLH_q7f_5OLlBo8_DfJA&s" width="33" height="33"> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+<img src="https://raw.githubusercontent.com/ros/ros_documentation/rolling/images/ros2-logo-stacked.png" width="40" height="40" alt="ros2">
 
 </p>
 </p>
