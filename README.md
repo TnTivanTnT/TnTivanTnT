@@ -38,6 +38,11 @@ I am an university student who code on multiple languages in a medium level, suc
 </div>
 
 # Github repos
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TnTivanTnT&repo=ShieldTrade-CE&theme=merko" alt="Repo" />
-</p>
+<div align="center">
+  <a href="https://github.com/TnTivanTnT/ShieldTrade-CE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TnTivanTnT&repo=ShieldTrade-CE&theme=tokyonight" alt="ShieldTrade-CE repo card" />
+  </a>
+  <a href="https://github.com/TnTivanTnT/SpiderRos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TnTivanTnT&repo=SpiderRos&theme=tokyonight" alt="SpiderRos repo card" />
+  </a>
+</div>
