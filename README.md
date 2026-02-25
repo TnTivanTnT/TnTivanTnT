@@ -31,10 +31,15 @@ I am an university student who code on multiple languages in a medium level, suc
 </p>
 
 # Stats
-<p align = "center">
-[![TnTivanTnT's Github stats](https://github-readme-stats.vercel.app/api?username=TnTivanTnT&show_icons=true&theme=merko&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TnTivanTnT)
+<p align="center">
+  <a href="https://github.com/TnTivanTnT">
+    <img src="https://github-readme-stats.vercel.app/api?username=TnTivanTnT&show_icons=true&theme=merko&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="TnTivanTnT's Github stats" />
+  </a>
 </p>
 
 # Github repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TnTivanTnT&repo=ShieldTrade-CE&show_owner=true)](https://github.com/TnTivanTnT/ShieldTrade-CE)
-
+<p align="center">
+  <a href="https://github.com/TnTivanTnT/ShieldTrade-CE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TnTivanTnT&repo=ShieldTrade-CE&show_owner=true&theme=merko" alt="ShieldTrade-CE Card" />
+  </a>
+</p>
