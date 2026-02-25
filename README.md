@@ -33,13 +33,13 @@ I am an university student who code on multiple languages in a medium level, suc
 # Stats
 <p align="center">
   <a href="https://github.com/TnTivanTnT">
-    <img src="https://github-readme-stats.vercel.app/api?username=TnTivanTnT&show_icons=true&theme=merko&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="TnTivanTnT's Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TnTivanTnT&show_icons=true&theme=merko&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
 
 # Github repos
 <p align="center">
   <a href="https://github.com/TnTivanTnT/ShieldTrade-CE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TnTivanTnT&repo=ShieldTrade-CE&show_owner=true&theme=merko" alt="ShieldTrade-CE Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TnTivanTnT&repo=ShieldTrade-CE&show_owner=true&theme=merko" />
   </a>
 </p>
