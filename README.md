@@ -18,7 +18,6 @@ I am an university student who code on multiple languages in a medium level, suc
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="33"> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvkZO1g6vDyu7YKjnKOS0RqGe_4TGPZNga9y8MMTGHnA&s" width="33" height="33"> &nbsp;
-<img src="https://www.codeguru.com/wp-content/uploads/2003/02/C-tutorials-300x300.jpg" width="33" height="33"> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2D-LUEKXpJ9u-DG_lIA3n_09XEGHExJDqw&s" width="33" height="33"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="33"> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuBR1T4lOw6W90_Byr0wmh9S4MKULz_j2OaTvoajHXg&s" width="33" height="33"> &nbsp;
@@ -32,7 +31,6 @@ I am an university student who code on multiple languages in a medium level, suc
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZIisqVbLUPZIJK_ZyFGA5rDEt0u2TvHHmhg&s" width="33" height="33"> &nbsp;
 <img src="https://assets-global.website-files.com/656f60dc2d85b496beec7c35/656f7af7b503790c02ef0ecc_voiceflow-logo.svg" width="60" height="33"> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8MX5pYTelSZbfJikPOy5UYy6BQGoBnhqVw&s" width="33" height="33"> &nbsp;
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="33" height="33"> &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ma2ZC5iTvPhPIL667LuV1q5xeC-e79Jeow&s" width="33" height="33"> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSYA3HMeTzhrXRmPVLH_q7f_5OLlBo8_DfJA&s" width="33" height="33"> &nbsp;
