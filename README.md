@@ -31,9 +31,9 @@ I am an university student who code on multiple languages in a medium level, suc
 </p>
 
 # Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TnTivanTnT&show_icons=true&theme=merko" alt="Stats" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TnTivanTnT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 # Github repos
 <p align="center">
